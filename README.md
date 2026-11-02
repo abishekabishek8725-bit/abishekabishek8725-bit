@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Abishek! 👋
 
-<!--
-**abishekabishek8725-bit/abishekabishek8725-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Information Technology Student | Aspiring Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about programming, web development, Artificial Intelligence and building useful technology projects.
+
+## 🌐 My Portfolio
+
+🚀 **[Visit My Live Portfolio](PASTE_YOUR_VERCEL_URL_HERE)**
+
+## 💻 Technical Skills
+
+- HTML
+- CSS
+- Python
+- JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+
+- Nexus AI
+- SpendWise
+- SafeWalk
+- Campus Lost & Found
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/abishek-abishek-13110341a/)
+- [GitHub](https://github.com/abishekabishek8725-bit)
+
+---
+
+*Always learning. Always building. Always improving.*
